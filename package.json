@@ -1,0 +1,22 @@
+{
+  "name": "projectcp.github.io",
+  "version": "1.0.0",
+  "description": "Carlo Printables Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lissetteramire/projectCP.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lissetteramire/projectCP.github.io/issues"
+  },
+  "homepage": "https://github.com/lissetteramire/projectCP.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
